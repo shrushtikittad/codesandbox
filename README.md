@@ -1,2 +1,2 @@
-# codesandbox
+# passwordGenerator
 Created with CodeSandbox
